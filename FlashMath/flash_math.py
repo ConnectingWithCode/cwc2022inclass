@@ -4,9 +4,13 @@ import time
 import pygame
 import math
 
-numbers_to_study = [1, 2, 3]
+# Saved scores at:
+
+
+
+numbers_to_study = [1, 2, 3, 4]
 max_bottom_number = 11
-num_questions = 15
+num_questions = 40
 
 # Constants on screen
 play.new_text("x", y=30, x=-100, font_size=100, color='darkgreen')

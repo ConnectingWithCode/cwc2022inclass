@@ -31,12 +31,4 @@ def reset_clicked():
 
 
 
-
-
-
-
-
-
-
-
 play.start_program()
