@@ -5,7 +5,8 @@ import pygame
 import math
 
 # Saved scores at:
-
+# Bowen Math Flash
+# https://docs.google.com/spreadsheets/d/1hKc3RliioqCvMZnLoj-nutV5Dba-UwmaZBcG9qxBQbA/edit#gid=0
 
 
 numbers_to_study = [1, 2, 3, 4]

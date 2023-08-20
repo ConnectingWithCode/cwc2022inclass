@@ -58,7 +58,4 @@ def do():
         player2.score = player2.score + 1
         move_target()
 
-
-
-
 play.start_program()
